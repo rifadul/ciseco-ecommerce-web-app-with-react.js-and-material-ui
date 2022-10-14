@@ -1,0 +1,10 @@
+.toolebar{
+    /* padding: 0 18rem; */
+    width: 75%;
+    margin: 0 auto;
+}
+.navbar{
+    background-color: #ffff !important;
+    color: #0000 !important;
+    /* box-shadow: none !important; */
+}

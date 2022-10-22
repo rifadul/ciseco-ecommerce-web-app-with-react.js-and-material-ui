@@ -25,8 +25,8 @@ const NavToolbar = ({ handleDrawerOpen }) => {
             backgroundColor: '#ffff',
             color: '#0000'
         }}>
-            <Toolbar className='toolebar' sx={{
-                width: '75%',
+            <Toolbar sx={{
+                width: { xs: '80%', md: '90%' },
                 margin: '0 auto',
                 padding: 0
             }}>

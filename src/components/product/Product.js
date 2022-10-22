@@ -7,7 +7,7 @@ const Product = () => {
     return (
         // here product info container {rf}
         <Grid container spacing={2} sx={{
-            margin: '2rem 0'
+            // margin: '2rem 0'
         }}>
             {
                 // here map all products one by one {rf}

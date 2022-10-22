@@ -5,7 +5,6 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 import { createTheme } from '@mui/material/styles';
 import { ThemeProvider } from '@emotion/react';
-import { CssBaseline } from '@mui/material';
 
 
 const theme = createTheme({
@@ -15,7 +14,7 @@ const theme = createTheme({
     },
     secondary: {
       main: '#1D4354'
-    }
+    },
   }
 })
 

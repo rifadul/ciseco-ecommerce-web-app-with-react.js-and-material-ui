@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "title": "Rey Nylon Backpack",
+        "price": 109.95,
+        "description": "Brown cockroach wings",
+        "category": "cloth",
+        "image": "https://chisnghiax.com/ciseco/static/media/17.7701cf9446a6b588de67.png",
+        "rating": {
+            "rate": 3.9,
+            "review": 120
+        }
+    },
+    {
+        "id": 2,
+        "title": "Round Buckle 1\" Belt ",
+        "price": 22.3,
+        "description": "Classic green",
+        "category": "backpacks",
+        "image": "https://chisnghiax.com/ciseco/static/media/2.0fda32f45e4cd5e368ea.png",
+        "rating": {
+            "rate": 4.1,
+            "review": 259
+        }
+    },
+    {
+        "id": 3,
+        "title": "Waffle Knit Beanie",
+        "price": 55.99,
+        "description": "New blue aqua",
+        "category": "men's clothing",
+        "image": "https://chisnghiax.com/ciseco/static/media/16.5ed8bd8a65af67fd6c5c.png",
+        "rating": {
+            "rate": 4.7,
+            "review": 500
+        }
+    },
+    {
+        "id": 4,
+        "title": "Travel Pet Carrier",
+        "price": 15.99,
+        "description": "Dark pink 2023",
+        "category": "men's clothing",
+        "image": "https://chisnghiax.com/ciseco/static/media/4.7342ded3cf1426f3ce5e.png",
+        "rating": {
+            "rate": 2.1,
+            "review": 430
+        }
+    },
+    {
+        "id": 5,
+        "title": "Leather Gloves",
+        "price": 695,
+        "description": "Perfect mint green",
+        "category": "jewelery",
+        "image": "https://chisnghiax.com/ciseco/static/media/5.9ddc0dff360795c6f5b5.png",
+        "rating": {
+            "rate": 4.6,
+            "review": 400
+        }
+    },
+    {
+        "id": 6,
+        "title": "Hoodie Sweatshirt",
+        "price": 695,
+        "description": "New design 2023",
+        "category": "jewelery",
+        "image": "https://chisnghiax.com/ciseco/static/media/6.ed4616e785835c927ad1.png",
+        "rating": {
+            "rate": 4.6,
+            "review": 400
+        }
+    },
+    {
+        "id": 7,
+        "title": "Manhattan Toy WRT",
+        "price": 695,
+        "description": "New design 2023",
+        "category": "jewelery",
+        "image": "https://chisnghiax.com/ciseco/static/media/sport-6.38e1be2735a4eab88fc6.png",
+        "rating": {
+            "rate": 4.6,
+            "review": 400
+        }
+    },
+    {
+        "id": 8,
+        "title": "Ella Leather Tote",
+        "price": 695,
+        "description": "Cream pink",
+        "category": "jewelery",
+        "image": "https://chisnghiax.com/ciseco/static/media/8.cb062df1bb925627f03d.png",
+        "rating": {
+            "rate": 4.6,
+            "review": 400
+        }
+    }
+]

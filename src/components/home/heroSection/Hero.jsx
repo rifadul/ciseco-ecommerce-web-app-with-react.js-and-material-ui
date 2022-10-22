@@ -55,7 +55,7 @@ const Hero = () => {
             fontSize: { xs: '1.6rem', sm: '2.25rem', md: '3.3rem', lg: '3.4rem' },
             fontFamily: `'DM Sans', sans-serif`,
             fontWeight: 600,
-            color: 'black',
+            color: 'rgb(17,24,39)',
             lineHeight: '1.2'
           }}>
             Exclusive collection <br /> for everyone
@@ -86,7 +86,7 @@ const Hero = () => {
           width: '100%',
           flexGrow: { xs: 4, md: 1 },
         }}>
-          <img src={heroSectionRightImage} alt="" srcset="" width='100%' />
+          <img src={heroSectionRightImage} alt="Hero Section Right" width='100%' />
         </Box>
       </Box>
     </Box >

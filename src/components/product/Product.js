@@ -1,7 +1,7 @@
-import React from 'react'
-import { Box, Grid, Typography } from '@mui/material'
-import productsData from '../../utils/products.json'
 import FavoriteIcon from '@mui/icons-material/Favorite';
+import { Box, Grid, Typography } from '@mui/material';
+import React from 'react';
+import productsData from '../../utils/products.json';
 
 const Product = () => {
     return (

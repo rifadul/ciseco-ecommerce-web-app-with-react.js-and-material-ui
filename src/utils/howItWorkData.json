@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "title": "Filter & Discover",
+        "description1": "Smart filtering and suggestions",
+        "description2": "make it easy to find",
+        "image": "https://chisnghiax.com/ciseco/static/media/HIW1img.0a618bef4b830b5c682b.png"
+    },
+    {
+        "id": 2,
+        "title": "Add to bag",
+        "description1": "Easily select the correct items and",
+        "description2": "add them to the cart",
+        "image": "https://chisnghiax.com/ciseco/static/media/HIW2img.3d1e1bf2693a9272e96a.png"
+    },
+    {
+        "id": 3,
+        "title": "Fast shipping",
+        "description1": "The carrier will confirm and ship",
+        "description2": "quickly to you",
+        "image": "https://chisnghiax.com/ciseco/static/media/HIW3img.8b344c9a046e6b85a9ab.png"
+    },
+    {
+        "id": 4,
+        "title": "Enjoy the product",
+        "description1": "Have fun and enjoy your 5-star",
+        "description2": "quality products",
+        "image": "https://chisnghiax.com/ciseco/static/media/HIW4img.c6a12d19e09f27d32678.png"
+    }
+]

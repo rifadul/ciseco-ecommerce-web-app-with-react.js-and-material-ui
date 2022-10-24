@@ -1,9 +1,7 @@
 import * as React from 'react';
 import Box from '@mui/material/Box';
 import { Typography, Button } from '@mui/material';
-// import { topHeaderBanner, sideBarBanner, profileImage } from '../../ProductRecommendationEngine/src/assets'
-// import { heroBgImage } from '../../../assets/assets'
-import heroBgImage from '../../../assets/src/home/heroBgImage.svg'
+import { heroBgImage } from '../../../assets/assets'
 import heroSectionRightImage from '../../../assets/src/home/heroSectionRightImage.png'
 import SearchIcon from '@mui/icons-material/Search';
 
